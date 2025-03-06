@@ -1,0 +1,17 @@
+total 72
+drwxr-xr-x  16 user  staff  512 Mar  6 15:42 .
+drwxr-x---+ 24 user  staff  768 Mar  6 15:41 ..
+drwxr-xr-x@ 16 user  staff  512 Mar  6 15:36 .git
+-rw-r--r--@  1 user  staff   34 Mar  6 15:36 .gitignore
+-rw-r--r--@  1 user  staff  173 Mar  6 15:36 a.txt
+-rw-r--r--@  1 user  staff    0 Mar  6 15:42 desktop1.txt
+-rw-r--r--@  1 user  staff    0 Mar  6 15:42 desktop2.txt
+-rw-r--r--@  1 user  staff   75 Mar  6 15:36 github_desktop.txt
+-rw-r--r--@  1 user  staff   27 Mar  6 13:45 kimchi.txt
+-rw-r--r--@  1 user  staff    0 Mar  6 14:22 private
+-rw-r--r--@  1 user  staff   17 Mar  6 14:23 private.txt
+drwxr-xr-x@  2 user  staff   64 Mar  6 14:22 private_folder
+-rw-r--r--@  1 user  staff   47 Mar  6 15:36 push_text.txt
+-rw-r--r--@  1 user  staff   22 Mar  6 15:36 spec2.txt
+-rw-r--r--@  1 user  staff   49 Mar  6 15:36 test2.txt
+-rw-r--r--@  1 user  staff   34 Mar  6 15:36 write_in_git
