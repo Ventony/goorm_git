@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 Hello my name is yeo in hyeop
 nice to meet you
 see you againtest_merge_break@@@@
 34few
-=======
-hello my name is yeo in hyeop
-fewfew
-fewfwefw
->>>>>>> test_merge
